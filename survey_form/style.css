@@ -1,0 +1,50 @@
+ 
+.form-setup{
+    display:flex;
+    flex-direction: column;
+    background-color:black;
+    color:white;
+    align-items: center;
+    margin-left:400px;
+    margin-right: 400px;
+    border-radius: 10px;
+}
+ 
+h1{
+    font-size:30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+}
+
+ 
+ 
+.form-group1 label {
+    display:block;
+}
+.form-group1 input {
+    width:400px;
+    height:30px;
+    border-radius:10px;
+}
+.form-group2 select{
+    text-decoration: none;
+    width:400px;
+    height:30px;
+    border-radius:10px;
+}
+.form-group2 label{
+    display:block;
+}
+.form-group3 label{
+    display:block;
+}
+.radio-button-group label{
+    display:inline;
+}
+.form-group4  {
+    display:flex;
+    flex-direction: column;
+      
+    align-items: left
+}
+ 
